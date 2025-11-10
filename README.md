@@ -1,14 +1,14 @@
-# YNU-Loss-Found
+# Loss-Found
 
 <p align="center">
-  <strong>云南大学校园失物招领系统 - 后端服务</strong>
+  <strong>校园失物招领系统 - 后端服务</strong>
 </p>
 
 ## 📖 项目简介
 
 校园内,在同学们日常生活中,遗失物品是非常常见的事情。如:在食堂,临走时忘记了放在桌上的书本、背包;在运动场,忘记了自己放在一旁的衣服,物件等。诸如此类的事,往往会给失主带来经济上的损失。
 
-为了减少此类现象的发生,让失物更快的回到失主的手上,我们设计了"YNU-Loss-Found"这款校园失物招领网站。该项目采用前后端分离的设计,此为后端仓库。
+为了减少此类现象的发生,让失物更快的回到失主的手上,我们设计了"Loss-Found"这款校园失物招领网站。该项目采用前后端分离的设计,此为后端仓库。
 
 **前端仓库**: [AlphaGogoo/YNU-LossFound-FrontEnd](https://github.com/AlphaGogoo/YNU-LossFound-FrontEnd)
 
